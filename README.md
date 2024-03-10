@@ -8,7 +8,8 @@
 
   <div>
     <h2>Notebooks em Java</h2>
-    <p>Os códigos neste repositório são apresentados por meio de notebooks. Um notebook permite a criação e compartilhamento de documentos que contêm ao mesmo tempo código interativo e textos explicativos. Os notebooks apresentados aqui podem ser baixados e visualizados em sua máquina local por meio do <a href="https://jupyter.org/">Jupyter Notebook</a>. Um tutorial de como acessar e instalar o Jupyter Notebook em sua máquina local pode ser encontrado <a href="https://medium.com/@pedrofullstack/introdu%C3%A7%C3%A3o-ao-jupyter-notebook-para-python-b2cf79cea31d#:~:text=Jupyter%20Notebook%20%C3%A9%20uma%20aplica%C3%A7%C3%A3o,c%C3%B3digo%20interativo%20e%20textos%20explicativos">aqui</a>.</p>
+    <p>Os códigos neste repositório são apresentados por meio de notebooks. Um notebook permite a criação e compartilhamento de documentos que contêm ao mesmo tempo código interativo e textos explicativos. Os notebooks apresentados aqui podem ser baixados e visualizados em sua máquina local por meio do <a href="https://jupyter.org/">Jupyter Notebook</a>.</p> 
+    <p>Um tutorial de como acessar e instalar o Jupyter Notebook em sua máquina local pode ser encontrado <a href="https://medium.com/@pedrofullstack/introdu%C3%A7%C3%A3o-ao-jupyter-notebook-para-python-b2cf79cea31d#:~:text=Jupyter%20Notebook%20%C3%A9%20uma%20aplica%C3%A7%C3%A3o,c%C3%B3digo%20interativo%20e%20textos%20explicativos">aqui</a>.</p>
     <p>Os notebooks apresentados aqui não podem ser executados diretamente no Jupyter Notebook. Para executar código Java diretamente no Jupyter, será necessário instalar o kernel <a href="https://github.com/SpencerPark/IJava/releases">ijava.</a>. Você pode encontrar um tutorial sobre o processo de instalação do kernel Java <a href="https://saturncloud.io/blog/how-to-use-jupyter-notebook-for-java-a-comprehensive-guide/">aqui</a>.</p>
    <p>
    </p><h3>Códigos dos slides de aula:</h3>
