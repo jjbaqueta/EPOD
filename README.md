@@ -13,9 +13,9 @@
     <p>Os notebooks apresentados aqui não podem ser executados diretamente no Jupyter Notebook. Para executar código Java diretamente no Jupyter, será necessário instalar o <a href="https://github.com/SpencerPark/IJava/releases">ijava</a>. Você pode encontrar um tutorial sobre o processo de instalação do kernel Java <a href="https://saturncloud.io/blog/how-to-use-jupyter-notebook-for-java-a-comprehensive-guide/">aqui</a>.</p>
    <p>
    </p><h3>Códigos dos slides de aula:</h3>
+    <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_recursividade.ipynb">aula_recursividade.ipynb</a></p>
    </p><h3>Resolução das listas de exercícios:</h3>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/gabarito_exerc%C3%ADcios_sobre_recursividade.ipynb">gabarito_lista_recursividade.ipynb</a></p>
-   </p><h3>Estruturas da dados implementadas:</h3>
 </p>
   </div>
   
