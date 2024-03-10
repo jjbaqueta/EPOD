@@ -14,6 +14,7 @@
    <p>
    </p><h3>Códigos dos slides de aula:</h3>
    </p><h3>Resolução das listas de exercícios:</h3>
+    <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/gabarito_exerc%C3%ADcios_sobre_recursividade.ipynb">gabarito_lista_recursividade.ipynb</a></p>
    </p><h3>Estruturas da dados implementadas:</h3>
 </p>
   </div>
