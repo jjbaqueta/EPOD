@@ -22,11 +22,10 @@
     <h2>Bibliografia</h2>
       <p>Alguns livros sobre algoritmos:</p>
       <ul>
-        <li><p>CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, 2012.</p></li>
-        <li><p>PEREIRA, Silvio do Lago. Estrutura de dados fundamentais: conceitos e aplicações. 12. ed. rev. e atual. São Paulo, SP: Érica, 2008.</p></li>
-        <li><p>SZWARCFITER, Jayme Luiz; MARKENZON, Lilian (Autor). Estruturas de dados e seus algoritmos. 3. ed. Rio de Janeiro, RJ: LTC, 2010</p></li>
-        <li><p>SEDGEWICK, Addison-Wesley. Algorithms in C. Reading. Massachusetts. 1998</p></li>
+        <li><p>Goodrich, Michael, T. e Roberto Tamassia. Estruturas de Dados e Algoritmos em Java, (5th edição). Grupo A, 2013.</p></li>
+        <li><p>Bianchi, F. Estrutura de Dados e Técnicas de Programação.Grupo GEN, 2014.</p></li>
+        <li><p>Algoritmos - Teoria e Prática. Grupo GEN, 2012.</li>
+        <li><p>Edelweiss, Nina, e Renata Galante. Estruturas de Dados - V18 - UFRGS. Grupo A, 2011.</p></li>
       </ul>
   </div>  
 </div>
-
