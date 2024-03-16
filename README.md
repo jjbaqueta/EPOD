@@ -16,6 +16,7 @@
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_recursividade.ipynb">aula sobre recursividade</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_ordenacaoElementar.ipynb">aula sobre ordenação elementar</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_ordenacaoAvancada.ipynb">aula sobre ordenação avançada</a></p>
+    <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_comparacaoOrdenacao.ipynb">comparano algoritmos de ordenação</a></p>
    </p><h3>Resolução das listas de exercícios:</h3>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/gabarito_exercicios_sobre_recursividade.ipynb">gabarito da lista de recursividade</a></p>
 </p>
