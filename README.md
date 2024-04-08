@@ -20,6 +20,7 @@
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_comparacaoOrdenacao.ipynb">comparano algoritmos de ordenação</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_comparacaoBusca.ipynb">comparano algoritmos de busca</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_listas.ipynb">Lista estática e encadeada</a></p>
+    <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_pratica_listas.ipynb">Aula prática sobre listas</a></p>
    </p><h3>Resolução das listas de exercícios:</h3>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/gabarito_exercicios_sobre_recursividade.ipynb">gabarito da lista de recursividade</a></p>
 </p>
