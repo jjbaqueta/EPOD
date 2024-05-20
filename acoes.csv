@@ -1,0 +1,11 @@
+Ação,Preço,Quantidade,Operação
+AAPL,150.00,10,compra
+AAPL,200.00,10,venda
+GOOG,1000.00,4,compra
+MSFT,200.00,1,compra
+AAPL,120.00,3,compra
+GOOG,1500.00,3,venda
+MSFT,210.00,2,venda
+TSLA,600.00,5,compra
+TSLA,620.00,4,venda
+GOOG,2000.00,1,venda
