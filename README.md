@@ -2,7 +2,7 @@
 
 <div>
   <div id="intro">
-    <p> Este repositório tem como objetivo apresentar conceitos e estruturas de dados abordados na disciplina de Estrutura, Pesquisa e Ordenação de Dados do curso de Tecnologia em Sistemas para Internet (TSI) da UTFPR-PG. Os exemplos aqui apresentados são ilustrados em linguagem Java.</p> 
+    <p> Este repositório tem como objetivo apresentar conceitos e estruturas de dados abordados na disciplina de Estrutura, Pesquisa e Ordenação de Dados do curso de Tecnologia em Sistemas para Internet (TSI) da UTFPR-TD. Os exemplos aqui apresentados são ilustrados em linguagem Java.</p> 
     <p>O conteúdo apresentado foi elaborado com base na <a href="#bibliografia">literatura da área</a>.</p>
   </div>
 
