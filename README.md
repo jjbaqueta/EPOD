@@ -21,6 +21,7 @@
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_comparacaoBusca.ipynb">comparano algoritmos de busca</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_listas.ipynb">lista estática e encadeada</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_pratica_listas.ipynb">aula prática sobre listas</a></p>
+    <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/stackPriorityQueue.ipynb">aula prática sobre pilhas e filas</a></p>
    </p><h3>resolução das listas de exercícios:</h3>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/gabarito_exercicios_sobre_recursividade.ipynb">gabarito da lista de recursividade</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/prova_1.ipynb">gabarito da prova 1 (P1)</a></p>
