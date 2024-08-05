@@ -26,6 +26,8 @@
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/gabarito_exercicios_sobre_recursividade.ipynb">gabarito da lista de recursividade</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/prova_1.ipynb">gabarito da prova 1 (P1)</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/filasPilhasImpList.ipynb">implementação de fila e pilha usando ArrayList e LinkedList</a></p>
+    <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula9Exer1.ipynb">aula 9 - exercício 1</a></p>
+    <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula9Exer2.ipynb">aula 9 - exercício 2</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/lista_exercicios_map.ipynb">lista de exercícios: maps e trees</a></p>
 </p>
   </div>
