@@ -22,13 +22,15 @@
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_listas.ipynb">lista estática e encadeada</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula_pratica_listas.ipynb">aula prática sobre listas</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/stackPriorityQueue.ipynb">aula prática sobre pilhas e filas</a></p>
-   </p><h3>resolução das listas de exercícios:</h3>
+   </p><h3>Resolução das listas de exercícios:</h3>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/gabarito_exercicios_sobre_recursividade.ipynb">gabarito da lista de recursividade</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/prova_1.ipynb">gabarito da prova 1 (P1)</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/filasPilhasImpList.ipynb">implementação de fila e pilha usando ArrayList e LinkedList</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula9Exer1.ipynb">aula 9 - exercício 1</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/aula9Exer2.ipynb">aula 9 - exercício 2</a></p>
     <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/lista_exercicios_map.ipynb">lista de exercícios: maps e trees</a></p>
+    </p><h3>Projeto final:</h3>
+    <p><a href="https://github.com/jjbaqueta/EPOD/blob/main/projetoFinal.ipynb">Código introdutório</a></p>
 </p>
   </div>
   
