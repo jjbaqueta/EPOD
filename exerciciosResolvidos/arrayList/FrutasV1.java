@@ -10,14 +10,9 @@
  */
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class FrutasV1 {
-    // Função para exibir a lista
-    public static void exibirLista(List<String> lista){
-        System.out.println(Arrays.toString(lista.toArray()));
-    }
 
     // Função principal
     public static void main(String[] args){
@@ -32,14 +27,14 @@ public class FrutasV1 {
 
         // Exibe a lista completa 
         System.out.println("Lista completa:");
-        exibirLista(frutas);
+        System.out.println(frutas);
 
         // Operações de busca e remoção de item
         int indice = frutas.indexOf("Morango");
         if (indice > 0) {
             frutas.remove(indice);
             System.out.println("Lista após a operação de remoção:");
-            exibirLista(frutas);
+            System.out.println(frutas);
         }
         else {
             System.out.println("O item indicado não está na lista!");
