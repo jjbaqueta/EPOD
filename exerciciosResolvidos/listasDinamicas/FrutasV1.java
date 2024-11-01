@@ -31,7 +31,7 @@ public class FrutasV1 {
 
         // Operações de busca e remoção de item
         int indice = frutas.indexOf("Morango");
-        if (indice > 0) {
+        if (indice >= 0) {
             frutas.remove(indice);
             System.out.println("Lista após a operação de remoção:");
             System.out.println(frutas);
