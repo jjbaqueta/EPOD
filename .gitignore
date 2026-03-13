@@ -1,0 +1,64 @@
+# =========================
+# Java
+# =========================
+
+# Arquivos compilados
+*.class
+
+# Arquivos empacotados
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# =========================
+# Diretórios de build
+# =========================
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Compilação manual / Eclipse
+bin/
+out/
+
+# =========================
+# IDEs
+# =========================
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+
+# =========================
+# Sistema operacional
+# =========================
+
+# Linux
+*~
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
