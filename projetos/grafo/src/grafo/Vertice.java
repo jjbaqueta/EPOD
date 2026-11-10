@@ -1,10 +1,10 @@
 package grafo;
 
-import java.util.Objects;
+import java.util.Collections;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Vertice implements Comparable<Vertice> {
+public class Vertice implements Comparable<Vertice>{
 	private Integer id;
 	private String nome;
 	private Set<Vertice> adjs;
@@ -15,8 +15,9 @@ public class Vertice implements Comparable<Vertice> {
 		this.adjs = new TreeSet<Vertice>();
 	}
 	
-	public void addAdj(Vertice v) {
-		this.adjs.add(v);
+	
+	public void addAdj(Vertice u) {
+		this.adjs.add(u);
 	}
 
 	public Integer getId() {
@@ -28,33 +29,16 @@ public class Vertice implements Comparable<Vertice> {
 	}
 
 	public Set<Vertice> getAdjs() {
-		return adjs;
+		return Collections.unmodifiableSet(this.adjs);
 	}
 
 	@Override
-	public int hashCode() {
-		return Objects.hash(id);
-	}
-
-	@Override
-	public boolean equals(Object obj) {
-		if (this == obj)
-			return true;
-		if (obj == null)
-			return false;
-		if (getClass() != obj.getClass())
-			return false;
-		Vertice other = (Vertice) obj;
-		return Objects.equals(id, other.id);
+	public int compareTo(Vertice arg0) {
+		return this.id.compareTo(arg0.id);
 	}
 
 	@Override
 	public String toString() {
-		return "(" + id + ": " + nome + ")";
-	}
-
-	@Override
-	public int compareTo(Vertice o) {
-		return this.id.compareTo(o.id);
+		return "v(id=" + id + ", nome=" + nome + ")";
 	}
 }
