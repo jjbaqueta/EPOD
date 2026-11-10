@@ -17,22 +17,22 @@ public class Grafo {
 	 * @param nome nome associado ao vértice.
 	 */
 	public void addVertice(int id, String nome) {
-		vertices.put(id, new Vertice(id, nome));
+		this.vertices.put(id, new Vertice(id, nome));
 	}
 	
 	/**
 	 * Adiciona uma aresta entre dois vértices do grafo.
 	 * A aresta é criada do vértice de origem para o vértice de destino.
 	 *
-	 * @param idU identificador do vértice de origem.
-	 * @param idV identificador do vértice de destino.
+	 * @param idV identificador do vértice de origem.
+	 * @param idU identificador do vértice de destino.
 	 */
-	public void addAresta(int idU, int idV) {
-		Vertice origem = this.vertices.get(idU);
-		Vertice destino = this.vertices.get(idV);
-		
+	public void addAdj(int idV, int idU) {
+		Vertice origem = this.vertices.get(idV);
+		Vertice destino = this.vertices.get(idU);
+				
 		if (origem != null && destino != null) {
-			this.vertices.get(idU).getAdjs().add(destino);
+			origem.addAdj(destino);
 		}
 	}
 	
