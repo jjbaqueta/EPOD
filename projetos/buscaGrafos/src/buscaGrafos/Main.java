@@ -5,7 +5,7 @@ package buscaGrafos;
  * 
  * Com base na implementação de um dígrafo, realizada na última aula, desenvolva uma rotina para verificar se dois vértices, u e v, estão conectados.
  * 
- * Por exemplo, no grafo abaixo, o vértice 0 (“V0”) está conectado ao vértice 3 (“V3”), mas não ao vértice 5 (“V5”). 
+ * Por exemplo, no grafo abaixo, o vértice 0 (“v0”) está conectado ao vértice 3 (“v3”), mas não ao vértice 5 (“v5”). 
  * 
  * Sua rotina deve receber os IDs dos vértices u e v e retornar se eles estão conectados, ou seja, se existe um caminho entre eles.
  * 
@@ -23,28 +23,30 @@ package buscaGrafos;
 public class Main {
 
 	public static void main(String[] args) {
+		
 		// Criando o grafo
 		Grafo grafo = new Grafo();
-		
+
 		// Adicionando os vértices
-		grafo.addVertice(0, "V0");
-		grafo.addVertice(1, "V1");
-		grafo.addVertice(2, "V2");
-		grafo.addVertice(3, "V3");
-		grafo.addVertice(4, "V4");
-		grafo.addVertice(5, "V5");
-		grafo.addVertice(6, "V6");
+		grafo.addVertice(0, "v0");
+		grafo.addVertice(1, "v1");
+		grafo.addVertice(2, "v2");
+		grafo.addVertice(3, "v3");
+		grafo.addVertice(4, "v4");
+		grafo.addVertice(5, "v5");
+		grafo.addVertice(6, "v6");
 		
 		// Adicionando as arestas
-		grafo.addAresta(0, 1);
-		grafo.addAresta(0, 2);
-		grafo.addAresta(1, 3);
-		grafo.addAresta(2, 1);
-		grafo.addAresta(4, 5);
-		grafo.addAresta(4, 6);
+		grafo.addAdj(0, 1);
+		grafo.addAdj(0, 2);
+		grafo.addAdj(1, 3);
+		grafo.addAdj(2, 1);
+		grafo.addAdj(4, 5);
+		grafo.addAdj(4, 6);
 		
 		grafo.exibirGrafo();
 		
+		// Verifica se é possível alcançar o vértice de destino a partir da origem.
 		System.out.println(grafo.buscar(0, 3));
 	}
 }
